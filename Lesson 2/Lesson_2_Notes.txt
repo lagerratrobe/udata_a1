@@ -1,0 +1,15 @@
+UD170 Lesson 2 Notes
+--------------------
+
+1. What are 5 questions we can answer with the Gapminder Data?
+  I.   What is the difference in school completion rates between girls and boys?
+  II.  Has the rate of school completion been going up, or down, over time?
+  III. What is the average life expectancy globally?
+  IV.  What country has the highest GDP?
+  V.   What country has the highest percentage of employed people?
+
+(Instructor questions):
+1. How has employment in the U.S. varied over time?
+2. What are the highest and lowest emoloyment countries in the latest year of data?
+3. How do the variables relate to one another?
+4. Are there consistent trends across countries?
